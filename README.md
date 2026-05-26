@@ -1,6 +1,8 @@
 # HARFI_Singularity
 
-The pre-built Singularity container can be downloaded at https://zenodo.org/records/15376547
+The pre-built Singularity container can be downloaded at https://zenodo.org/records/15376547.
+
+Paper in Neuroinformatics: https://link.springer.com/article/10.1007/s12021-026-09769-2.
 
 Usuage:
 
